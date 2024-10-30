@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Bia\u0139\u201ako serwatkowe",
+    "price": 150.0,
+    "available": 50
+  },
+  {
+    "id": 2,
+    "name": "Energetyk X",
+    "price": 8.99,
+    "available": 99
+  },
+  {
+    "id": 3,
+    "name": "Od\u0139\u013dywka kreatynowa",
+    "price": 120.0,
+    "available": 30
+  },
+  {
+    "id": 4,
+    "name": "aaaa",
+    "price": 10.0,
+    "available": 500
+  }
+]

@@ -1,0 +1,13 @@
+/projekt
+│
+├── main.py               # Plik główny, uruchamiający program
+├── users.py              # Klasy użytkowników i administratora
+├── products.py           # Klasa produktu, lista produktów
+├── orders.py             # Obsługa zamówień i sprzedaży
+├── finances.py           # Zarządzanie finansami firmy
+├── data
+│   ├── users.json        # Dane użytkowników
+│   ├── products.json     # Lista produktów
+│   ├── finances.json     # Dane finansowe firmy
+│   └── orders.json       # Zamówienia
+└── reports.py            # Generowanie raportów

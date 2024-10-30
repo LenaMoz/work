@@ -1,0 +1,17 @@
+Raport Firmy:
+Raport U¿ytkowników:
+---------------------------------
+U¿ytkownik: admin, Rola: admin
+U¿ytkownik: employee1, Rola: employee
+U¿ytkownik: employee2, Rola: employee
+U¿ytkownik: skibidi, Rola: admin
+U¿ytkownik: aaa, Rola: user
+---------------------------------
+Raport Zamówieñ:
+---------------------------------
+{'product_name': 'Skarpetki sportowe', 'quantity': 1, 'total_price': 15.0}
+---------------------------------
+Raport Finansowy:
+---------------------------------
+Saldo: 100.0 PLN
+---------------------------------
